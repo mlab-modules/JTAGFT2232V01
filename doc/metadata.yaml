@@ -6,7 +6,7 @@ homepage: false
 images:
 - doc/img/JTAGFT2232V01A_QRcode.png
 mark: 50
-status: 0
+status: 3
 tags:
 - mlab
 - mlab-module
